@@ -1,3 +1,4 @@
-badge_maker("Arel")
+def badge_maker(attendees)
+attendees = []
 end
 
