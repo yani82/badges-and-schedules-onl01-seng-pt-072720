@@ -3,9 +3,7 @@ def badge_maker(name)
 end
 def batch_badge_creator(attendees)
   attendees = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-    counter += 1 
+    printer = badges.size
   puts "Hello, my name is #{attendees}."
-  if counter >= 10 
-    break 
   end
 end 
