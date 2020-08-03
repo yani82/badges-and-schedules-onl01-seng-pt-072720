@@ -1,5 +1,4 @@
-def badge_maker(attendees)
-attendees = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-puts "Hello, my name is #{attendees}."
+def badge_maker(name)
+"Hello, my name is #{name}."
 end
 
